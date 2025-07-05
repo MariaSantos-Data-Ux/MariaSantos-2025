@@ -7,9 +7,10 @@
 
 Olá, eu sou **Maria Aparecida dos Santos!** 👋
 
-🧑‍💻 Cursando Ciência de Dados , me atualizando a todo vapor em tecnologia 
-
-🚀 Empenhada por natureza, estou explorando novas linguagens de programação . 
+🧑‍💻 Cursando:
+- Ciências de Dados e Machine Learning  - Pós-graduação (Conclusão:12/2026)
+- Contabilidade de custos  - Pós-graduação - (Conclusão:12/2026)
+- Ciências de dados - Cursando - EBAC - (Conclusão:08/2026) 
 ____________________________________________________________________________
 ### **🎓 Formação Acadêmica:**
 🔹Bacharelado em Ciências Contábeis – Conclusão em 2019
@@ -24,6 +25,8 @@ ____________________________________________________________________________
 🔹Inglês básico
 ____________________________________________________________________________
 ### **💼 Experiência Profissional:**
+🔹Python (Análise de dados)
+
 🔹Analista Administrativo 
 
 🔹Auxiliar Contábil
@@ -35,7 +38,6 @@ ____________________________________________________________________________
 🔹Analista de Contratos
 ____________________________________________________________________________
 ### **🌱 O que estou aprendendo atualmente:**
-🔹Profissionalizante em Ciência de Dados na EBAC
 
 🔹Python
 
@@ -46,6 +48,9 @@ ____________________________________________________________________________
 🔹Google Studio
 
 🔹Inglês
+
+🔹Espanhol 
+
 ____________________________________________________________________________
 ### **🔦 Como me Encontrar:**
 🔹 E-mail:mariaapa.santos@gmail.com
