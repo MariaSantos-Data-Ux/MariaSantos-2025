@@ -1,4 +1,6 @@
-<img width=160% src= "https://capsule-render.vercel.app/api?type=waving&height=160&text=🌱%20I'm%20currently%20updating%20myself%20and%20learning&fontSize=18&section=header&reversal=false&animation=scaleIn&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=37"/>
+<img width=160% src= "https://capsule-render.vercel.app/api?type=waving&height=160&text=
+🌱%20I'm%20currently%20updating%20myself%20and%20learning&fontSize=18&section=header&reversal=false&animation=scaleIn&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=37"/>
+🌱 Evolving in the technological space—deepening my journey in Data Science.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A938C1&ont=Fira+Code&size=35&center=true&width=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Aparecida+dos+Santos;I'm+57+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)
 
@@ -7,11 +9,6 @@
 
 Olá, eu sou **Maria Aparecida dos Santos!** 👋
 
-🧑‍💻 Cursando:
-- Ciências de Dados e Machine Learning  - Pós-graduação (Conclusão:12/2026)
-- Contabilidade de custos  - Pós-graduação - (Conclusão:12/2026)
-- Ciências de dados - Cursando - EBAC - (Conclusão:08/2026) 
-____________________________________________________________________________
 ### **🎓 Formação Acadêmica:**
 🔹Bacharelado em Ciências Contábeis – Conclusão em 2019
 
@@ -19,23 +16,30 @@ ____________________________________________________________________________
 
 🔹Curso Webdesign - Senac Campinas - Conclusão em 2009
 ____________________________________________________________________________
+ ### **🧑‍💻 Cursando:**
+- Ciências de Dados e Machine Learning  - Pós-graduação (Conclusão:12/2026)
+- Contabilidade de custos  - Pós-graduação - (Conclusão:12/2026)
+- Ciências de dados - Cursando - EBAC - (Conclusão:08/2026) 
+____________________________________________________________________________
+
 ### **👩🏻‍💻 Idioma:**
 🔹Espanhol intermediário
 
 🔹Inglês básico
 ____________________________________________________________________________
 ### **💼 Experiência Profissional:**
+
 🔹Python (Análise de dados)
 
 🔹Analista Administrativo 
 
-🔹Auxiliar Contábil
-
 🔹Prestação de Serviços: Consultoria em Escritórios Contábeis e Advocacia
 
-🔹Sistema de Atendimento ao cliente
+🔹Sistema de Atendimento ao cliente/Resolução de problemas
 
-🔹Analista de Contratos
+🔹Análise de Contratos
+
+🔹Análise de Créditos
 ____________________________________________________________________________
 ### **🌱 O que estou aprendendo atualmente:**
 
@@ -45,7 +49,7 @@ ____________________________________________________________________________
 
 🔹Power BI
 
-🔹Google Studio
+🔹Java
 
 🔹Inglês
 
