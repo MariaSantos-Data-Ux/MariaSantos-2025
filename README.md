@@ -1,5 +1,5 @@
 <img width=160% src= "https://capsule-render.vercel.app/api?type=waving&height=160&text=
-🌱%20I'm%20currently%20updating%20myself%20and%20learning&fontSize=18&section=header&reversal=false&animation=scaleIn&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=37"/>
+🌱%20Evolving%20in%20the%20technological%20space%20l-&fontSize=18&section=header&reversal=false&animation=scaleIn&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=37"/>
 🌱 Evolving in the technological space—deepening my journey in Data Science.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A938C1&ont=Fira+Code&size=35&center=true&width=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Aparecida+dos+Santos;I'm+57+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)
