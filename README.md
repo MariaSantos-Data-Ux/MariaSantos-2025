@@ -17,13 +17,15 @@ ____________________________________________________________________________
  ### **🧑‍💻 Cursando:**
 - Ciências de Dados e Machine Learning  - Pós-graduação (Conclusão:12/2026)
 - Contabilidade de custos  - Pós-graduação - (Conclusão:12/2026)
-- Ciências de dados - Cursando - EBAC - (Conclusão:08/2026) 
+- Ciências de dados - Cursando - EBAC - (Conclusão:08/2026)
+- Espanhol 
+- Inglês 
 ____________________________________________________________________________
 
 ### **👩🏻‍💻 Idioma:**
 🔹Espanhol intermediário
 
-🔹Inglês básico
+🔹Inglês básico/intermediário
 ____________________________________________________________________________
 ### **💼 Experiência Profissional:**
 
