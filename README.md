@@ -61,7 +61,12 @@ ____________________________________________________________________________
 
 ____________________________________________________________________________
 ### **🚀 Projetos em Destaque:**
- Em breve! ;)
+ 
+https://github.com/MariaSantos-2025/analise-de-dados-ecommerce
+
+https://github.com/MariaSantos-2025/Calculo_aposentadoria_idade
+
+
 
 
 
