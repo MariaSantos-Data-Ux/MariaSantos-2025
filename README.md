@@ -8,6 +8,9 @@
 Olá, eu sou **Maria Aparecida dos Santos!** 👋
 
 ### **🎓 Formação Acadêmica:**
+
+🔹"Desvendando o Open RAN: O futuro das redes móveis" -  CPQD | TIP Academy  - Conclusão Junho/2025
+
 🔹Bacharelado em Ciências Contábeis – Conclusão em 2019
 
 🔹Técnico em Processamento de Dados - Conclusão em 1989
@@ -66,8 +69,6 @@ https://github.com/MariaSantos-2025/analise-de-dados-ecommerce
 
 https://github.com/MariaSantos-2025/Calculo_aposentadoria_idade
 
+https://github.com/MariaSantos-2025/Analise_limites_de_creditos
 
 
-
-
--->
