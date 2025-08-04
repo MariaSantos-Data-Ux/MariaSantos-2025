@@ -63,12 +63,6 @@ ____________________________________________________________________________
 🔹 E-mail:mariaapa.santos@gmail.com
 
 ____________________________________________________________________________
-### **🚀 Projetos em Destaque:**
- 
-https://github.com/MariaSantos-2025/analise-de-dados-ecommerce
 
-https://github.com/MariaSantos-2025/Calculo_aposentadoria_idade
-
-https://github.com/MariaSantos-2025/Analise_limites_de_creditos
 
 
