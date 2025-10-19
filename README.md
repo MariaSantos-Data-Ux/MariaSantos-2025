@@ -1,6 +1,7 @@
 <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🌱%20Evolving%20in%20the%20technological%20space—deepening%20my%20journey%20in%20Data%20Science%20🌱&fontSize=18&section=header&reversal=false&animation=scaleIn&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=37"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A938C1&ont=Fira+Code&size=35&center=true&width=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Santos;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A938C1&font=Fira+Code&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Santos;I'm+from+Brazil;Data+Scientist+and+Analyst;Be+Welcome!+:%29)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
