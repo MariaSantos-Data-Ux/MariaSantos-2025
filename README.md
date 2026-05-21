@@ -3,10 +3,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A938C1&font=Fira+Code&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Santos;I'm+from+Brazil;Data+Scientist+and+Analyst;Be+Welcome!+:%29)
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
-![Power BI](https://camo.githubusercontent.com/7ef0f1bcfeb2adf1852b2c121990eda6edecb7af7ed397f5783d98b2f3102b9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722b4249266c6f676f436f6c6f723d7768697465)
+## 🚀 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
 
 
 Olá, eu sou **Maria Santos!** 👋
@@ -37,15 +41,24 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 ### **💼 Experiência Profissional:**
 
-🔹Profissional em transição de carreira para Análise e Ciência de Dados, com experiência prática em:
+🔹Cientista de Dados com experiência em análise exploratória, estatística inferencial, machine learning supervisionado e não supervisionado, integração SQL + Python e criação de dashboards interativos em Power BI e Looker Studio.
 
-- Ambientes: Jupyter Notebook, PyCharm
+🛠️ Habilidades Técnicas
+Python, Pandas, Scikit-learn
 
-- Linguagens: Python, noções de SQL
- 
-- Habilidades Técnicas: Python, Pandas, NumPy, Matplotlib, Seaborn, CRISP-DM, tratamento de dados ausentes e outliers, integração de dados de múltiplas fontes, renomeação e categorização de variáveis, preparação de dados para modelagem e análise estatística.
+SQL (consultas complexas, criação e junção de tabelas)
 
-- Conhecimentos: Análise descritiva e medidas de associação, estabilidade de modelos estatísticos, árvores de regressão, regressão com Statsmodels, seleção de modelos com regularização, automação de scripts em Python e desenvolvimento de aplicações web com Streamlit.
+Machine Learning: regressão logística, árvores de decisão, clustering K-means, Grid Search, SMOTE, StandardScaler
+
+Probabilidade e Teorema de Bayes
+
+Business Intelligence: dashboards interativos em Power BI e Looker Studio
+
+📊 Resumo
+
+Experiência sólida em modelagem preditiva e descritiva, aplicando técnicas de aprendizado supervisionado e não supervisionado para problemas reais de negócio.
+Domínio em SQL + Python/Pandas para manipulação e análise de dados em Jupyter Notebook.
+Desenvolvimento de dashboards interativos que comunicam insights de forma clara e estratégica.
 
 🔹 Experiência anterior em:
 
