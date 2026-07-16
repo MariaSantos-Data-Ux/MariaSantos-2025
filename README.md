@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A938C1&font=Fira+Code&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Santos;I'm+from+Brazil;Data+Scientist+and+Analyst;Be+Welcome!+:%29)
 
-
 ## 🚀 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,6 +70,7 @@ ____________________________________________________________________________
 
 ### **🔦 Como me Encontrar:**
 🔹 E-mail:mariaapa.santos@gmail.com
+
 🔹 https://www.linkedin.com/in/maria-santos-dados
 
 ____________________________________________________________________________
