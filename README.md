@@ -15,8 +15,10 @@
 
 Olá, eu sou **Maria Santos!** 👋
 
-> 📌 Nota: Este perfil foi recentemente atualizado para refletir meu novo nome de usuário no GitHub — **MariaSantos-Data-Ux**.  
+> 📌 Nota: Este perfil foi recentemente atualizado para refletir meu novo nome de usuário no GitHub — **MariaSantos-Data-ML**
 > Todos os projetos e contribuições permanecem acessíveis normalmente.
+
+> Ciência de Dados • Machine Learning • Python • SQL • Power BI • Looker Studio
 ____________________________________________________________________________
 ### **🎓 Formação Acadêmica:**
 
@@ -28,7 +30,6 @@ ____________________________________________________________________________
  ### **🧑‍💻 Formação em andamento:**
  
 - Pós-graduação em Ciência de Dados e Machine Learning – conclusão em 12/2026
-- Pós-graduação em Contabilidade de Custos – conclusão em 12/2026
 - Curso de Ciências de dados - Cursando - EBAC - Conclusão:09/2026
 - Espanhol e Inglês em desenvolvimento
 ____________________________________________________________________________
@@ -48,27 +49,29 @@ Python, Pandas, Scikit-learn
 
 SQL (consultas complexas, criação e junção de tabelas)
 
-Machine Learning: regressão logística, árvores de decisão, clustering K-means, Grid Search, SMOTE, StandardScaler
+Machine Learning: regressão logística, árvores de decisão, Random Forest , clustering K-means, Grid Search, SMOTE, StandardScaler, Cross Validation.
 
 Probabilidade e Teorema de Bayes
 
-Business Intelligence: dashboards interativos em Power BI e Looker Studio
+Business Intelligence: dashboards interativos em Power Bi e Looker Studio
 
 📊 Resumo
 
 Experiência sólida em modelagem preditiva e descritiva, aplicando técnicas de aprendizado supervisionado e não supervisionado para problemas reais de negócio.
 Domínio em SQL + Python/Pandas para manipulação e análise de dados em Jupyter Notebook.
-Desenvolvimento de dashboards interativos que comunicam insights de forma clara e estratégica.
+Desenvolvimento de dashboards interativos em Power BI e Looker Studio que comunicam insights de forma clara e estratégica.
 
-🔹 Experiência anterior em:
+🔹 Experiências
 
-- Administração condominial: análise financeira, cruzamento de dados e negociação de contratos, com redução de custos estimada em R$ 25 mil anuais
+- Na minha experiência em condomínios residenciais, trabalhei com análise financeira e planejamento orçamentário, conseguindo reduzir custos em até 20% ao ano.
+  
+- Também atuei na área previdenciária, interpretando dados para cálculos de tempo de contribuição ,  garantindo previsões precisas e confiáveis. Nesse período, consegui benefícios para mais de 500 pessoas — sendo  maioria  conquistados na esfera recursal até a última instância, em Brasília, enfrentando o desafio de provar o direito do segurado, unindo dados + Direito Previdenciário. 
 
-- Consultoria contábil e jurídica: análise de dados previdenciários via CNIS, identificação de inconsistências e simulações estratégicas para benefícios como aposentadoria e pensão
 ____________________________________________________________________________
 
 ### **🔦 Como me Encontrar:**
 🔹 E-mail:mariaapa.santos@gmail.com
+🔹 https://www.linkedin.com/in/maria-santos-dados
 
 ____________________________________________________________________________
 
